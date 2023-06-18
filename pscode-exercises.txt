@@ -1,0 +1,27 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+( 5 + 5 = 10)
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+( if a + b = x
+  if x is divisible by 2   Print "Even"
+  if x is not divisible by  Print "Odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(	a} Estimated Temperture for the next five days in Cincinnati [degrees in Farenheit] = 81, 74, 81, 82, 81
+ 
+	b} Average Estimated Temperture for next five days = [81 + 74 + 81 + 82 + 81 = 399 then 399 / 5 = 80]
+	c} Print Lowest and Highest Estimated Tempertures for the next five days
+	d} for minimum temperture print = "Min Est Temp for next 5 days = 74"
+	   for maximum temperture print = "Max Est Temp for next 5 days = 82"						)
+	
+-- END --
